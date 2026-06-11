@@ -136,12 +136,10 @@ Información técnica relacionada con procesos, metodologías y herramientas uti
 https://github.com/marycielo-2006
 
 💼 LinkedIn:
-(Agregar enlace de LinkedIn)
+https://www.linkedin.com/in/marycielo-pedraza-ascue-30620a414/
 
 📧 Correo:
-(Agregar correo institucional)
-
----
+cielopedrazaascue20@gmail.com
 
 # 📊 Estado del Portafolio
 
